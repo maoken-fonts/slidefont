@@ -1,4 +1,4 @@
-Copyright 2019-2020 The Slidefont Project Authors (https://www.maoken.com/authorhome?u=Keynote%E7%A0%94%E7%A9%B6%E6%89%80)
+Copyright 2019-2020 The SlideFont Project Authors (https://www.maoken.com/authorhome?u=Keynote%E7%A0%94%E7%A9%B6%E6%89%80)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

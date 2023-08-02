@@ -5,4 +5,4 @@
 # Names should be added to this file as:
 # Name or Organization <email address>
 
-Slidefont <254431422@qq.com>
+SlideFont <254431422@qq.com>
